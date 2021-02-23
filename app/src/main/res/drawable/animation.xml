@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/iconfinder_16_3561849"
+        android:duration="1000" />
+
+    <item android:drawable="@drawable/iconfinder_22_3561855"
+        android:duration="1000" />
+
+    <item android:drawable="@drawable/ic_launcher_foreground"
+        android:duration="1000" />
+</animation-list>
